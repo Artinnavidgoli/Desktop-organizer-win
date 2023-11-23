@@ -9,7 +9,7 @@ a desktop organizer for windows operating system
 ****
  this is a bat file that can organize your desktop by file type 
  
- *ps :this project is opensourse  , so feel free to countribute + there is the txt file of this bat file so it's easier to countribute*
+ *ps :this project is opensourse  , so feel free to countribute + there is the txt file of this bat file so it's easier to countribute and easier change based on your needs*
 
 
 
@@ -20,7 +20,7 @@ if you want you can buy me a coffee (it only works with iranian money)
 
 
 
-*if you like so there is ETH option (0x48d2526357Ee6f39D9C3A6C0724eB70Edb67deEc)*
+*if you can't use the coffee link there is an ETH option (0x48d2526357Ee6f39D9C3A6C0724eB70Edb67deEc)*
 
 
 ****
